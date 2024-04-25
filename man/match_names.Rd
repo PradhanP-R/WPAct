@@ -4,8 +4,14 @@
 \alias{match_names}
 \title{Package for searching names of plants and their synonyms mentioned in Wildlife (Protection) Act, 1972 (Amended as on date)'}
 \usage{
-match_names()
+match_names(Userdata)
+}
+\arguments{
+\item{Test}{Excel file with one sheet and 1 column with heading 'Name' following by rows with species names}
 }
 \description{
 Package for searching names of plants and their synonyms mentioned in Wildlife (Protection) Act, 1972 (Amended as on date)'
+}
+\author{
+Prakash Pradhan, Purnendu Paul and Md. Maimun Habib
 }
