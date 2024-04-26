@@ -12,10 +12,6 @@ match_names()
 \description{
 Package for searching names of plants and their synonyms mentioned in Wildlife (Protection) Act, 1972 (Amended as on date)'
 }
-\examples{
-match_names("Userdata")
-
-}
 \author{
 Prakash Pradhan, Purnendu Paul and Md. Maimun Habib
 }
