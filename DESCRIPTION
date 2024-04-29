@@ -2,7 +2,7 @@ Package: WPAct
 Type: Package
 Title: Package for searching names of plants and their synonyms mentioned in Wildlife (Protection) Act, 1972 (Amended as on date)
 Version: 0.0.1.0
-Author: Prakash Pradhan, Purnendu Paul and Md. Maimun Habib
+Author: Prakash Pradhan, Purnendu Paul and Md. Maimun Habib (2024)
 Year: 2024
 Maintainer: Prakash Pradhan <shresthambj@gmail.com>
 Description: Package for searching names of plants and their synonyms mentioned in Wildlife (Protection) Act, 1972 (Amended as on date)
@@ -12,4 +12,4 @@ URL: https://github.com/PradhanP-R/WPAct
 LazyData: true
 RoxygenNote: 7.3.1
 Depends: R (>= 2.10)
-Imports: dplyr, readxl, stringr
+Imports: readxl
