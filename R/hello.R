@@ -13,10 +13,7 @@ match_names <- function() {
     install.packages("dplyr")
     library(dplyr)
   }
-  if(!require(stringr)){
-    install.packages("stringr")
-    library(stringr)
-  }
+
 
 
   # Create data frame
